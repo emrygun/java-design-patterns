@@ -1,0 +1,10 @@
+/home/emre/repos/java-design-patterns/strategy_pattern/src/main/java/Duck/Quack/Squeak.java
+/home/emre/repos/java-design-patterns/strategy_pattern/src/main/java/Duck/Quack/QuackBehaviour.java
+/home/emre/repos/java-design-patterns/strategy_pattern/src/main/java/Duck/Fly/FlyNoWay.java
+/home/emre/repos/java-design-patterns/strategy_pattern/src/main/java/MiniDuckSimulator.java
+/home/emre/repos/java-design-patterns/strategy_pattern/src/main/java/MallardDuck.java
+/home/emre/repos/java-design-patterns/strategy_pattern/src/main/java/Duck/Fly/FlyBehaviour.java
+/home/emre/repos/java-design-patterns/strategy_pattern/src/main/java/Duck/Duck.java
+/home/emre/repos/java-design-patterns/strategy_pattern/src/main/java/Duck/Fly/FlyWithWings.java
+/home/emre/repos/java-design-patterns/strategy_pattern/src/main/java/Duck/Quack/MuteQuack.java
+/home/emre/repos/java-design-patterns/strategy_pattern/src/main/java/Duck/Quack/Quack.java
