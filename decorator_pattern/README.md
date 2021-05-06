@@ -1,3 +1,3 @@
-# Observer Pattern 
+# Decorator Pattern
 
-<img src="https://raw.githubusercontent.com/emrygun/java-design-patterns/main/observer_pattern/uml.png" />
+<img src="https://github.com/emrygun/java-design-patterns/blob/main/decorator_pattern/uml.png" />
