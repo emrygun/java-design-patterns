@@ -1,6 +1,6 @@
-package Display.Subject;
+package Subject;
 
-import Display.Observer.Observer;
+import Observer.Observer;
 
 public interface Subject {
     void registerObserver(Observer o);

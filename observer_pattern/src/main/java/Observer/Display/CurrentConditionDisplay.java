@@ -1,4 +1,4 @@
-package Display;
+package Observer.Display;
 
 import Observer.Observer;
 import Subject.WeatherData;

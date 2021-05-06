@@ -1,7 +1,6 @@
-package Display.Subject;
+package Subject;
 
-import Display.Observer.Observer;
-import Display.Subject.Subject;
+import Observer.Observer;
 
 import java.util.ArrayList;
 import java.util.List;
