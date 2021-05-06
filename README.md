@@ -2,7 +2,7 @@
 Design Patterns with Java
 <br/>
 
-<h2>SOLID Principles</h2>
+<details><summary>SOLID Principles</summary>
 <ul>
     <li><b>S => Single-Responsibility Principle:</b></li>
     <p><i>A class should have one reason to change (a class should have only one job)</p>
@@ -18,3 +18,4 @@ Design Patterns with Java
     <p><i>Entities must depend on abstractions, not on concretions. It states that the high-level
     module must not depend on the low-level module, but the sould depend on abstractions.</i></p>
 </ul>
+</details>
